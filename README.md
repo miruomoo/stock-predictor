@@ -1,4 +1,19 @@
-# stock-predictor
-- A stock prediction machine learning model built with scikit-learn and RandomForestClassifer, fetching data from Yahoo Finance API.
-- Model includes rolling window backtesting and data cleanup with pandas.
-<img src="./demo.JPG" alt="demo" width="50%"/>
+# Stock Predictor
+
+A stock prediction machine learning model built using **scikit-learn** and a **RandomForestClassifier**, with data fetched from the **Yahoo Finance API**.
+
+---
+
+## 🔍 Features
+
+- Rolling window backtesting for robust performance evaluation  
+- Data preprocessing and cleanup using **pandas**  
+- Trained using historical market data and technical indicators
+
+---
+
+## 🖼️ Demo
+
+<img src="./demo.JPG" alt="Demo" width="50%"/>
+
+---
